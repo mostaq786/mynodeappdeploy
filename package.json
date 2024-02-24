@@ -1,0 +1,11 @@
+{
+  "name": "mynodeappdeploy",
+  "version": "1.0.0",
+  "description": "Node JS App Deployment without Express!!!",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "me",
+  "license": "ISC"
+}
